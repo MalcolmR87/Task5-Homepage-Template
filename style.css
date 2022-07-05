@@ -1,0 +1,12 @@
+body {text-align: center; background-color: blue; color: yellow;}
+
+a{color: greenyellow; margin-left: 20px;}
+
+section {margin-top: 120px;}
+
+#am{margin-left: 650px;}
+
+footer {
+position: absolute;
+bottom: 30px;
+}
